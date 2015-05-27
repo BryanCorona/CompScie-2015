@@ -1,0 +1,37 @@
+.container div{
+
+    display:inline-block;
+}
+
+.Square {
+    background-color: grey;
+    height: 80px;
+    margin: 10px;
+    position: relative;
+    width: 80px;
+}
+.container div{
+
+    display:inline-block;
+}
+
+.Square {
+    background-color: grey;
+    height: 80px;
+    margin: 10px;
+    position: relative;
+    width: 80px;
+}
+.container div{
+
+    display:inline-block;
+}
+
+.Square {
+    background-color: grey;
+    height: 80px;
+    margin: 10px;
+    position: relative;
+    width: 80px;
+    vertical-align:top;
+}

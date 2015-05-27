@@ -1,0 +1,188 @@
+
+
+#player{
+    height:50px;
+    width:50px;
+    background-color: pink;
+
+    
+    
+}
+
+#gold1{ 
+     background-color:yellow;
+     height:25px; width:35px;
+    
+}
+
+#clothes{
+    position:absolute;
+    left:640px;top:0px;
+    
+}
+
+#gold2{
+     background-color:yellow;
+     height:25px; width:35px;
+    
+}
+
+#entertainment{
+    position:absolute;
+    left:640px;top:30px;
+    
+}
+#gold3{
+     background-color:yellow;
+     height:25px; width:35px;
+    
+}
+
+#food{
+    position:absolute;
+    left:640px;top:60px;
+    
+}
+
+
+#points1{
+    position:absolute;
+    left:600px;top:0;
+    
+}
+
+#points2{
+    position:absolute;
+    left:600px; top:30px;
+}
+
+#points3{
+    position:absolute;
+    left:600px; top:60px;
+}
+#mon1{
+    position:absolute;
+    left:590px; top:0px;
+}
+
+#mon2{
+    position:absolute;
+    left:590px; top:30px;
+}
+
+#mon3{
+    position:absolute;
+    left:590px; top:60px;
+    
+}
+
+.row1, .row2, .row3, .row4, .row5{
+    clear:both;
+}
+
+
+
+
+#spot00,#spot10,#spot20,#spot30,#spot40{
+    height:100px;
+    width:100px; 
+    border:4px solid black; 
+    position:relative;
+    float:left;
+}
+
+#spot01,#spot11,#spot21,#spot31,#spot41{
+    height:100px;
+    width:100px; 
+    border:4px solid black; 
+    position:relative;
+    float:left;
+}
+
+#spot02,#spot12,#spot22,#spot32,#spot42{
+    height:100px;
+    width:100px; 
+    border:4px solid black; 
+    position:relative;
+    float:left;
+}
+
+#spot03,#spot13,#spot23,#spot33,#spot43{
+    height:100px;
+    width:100px; 
+    border:4px solid black; 
+    position:relative;
+    float:left;
+    
+}
+
+#spot04,#spot14,#spot24,#spot34,#spot44{
+    height:100px;
+    width:100px; 
+    border:4px solid black; 
+    position:relative;
+    float:left;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
