@@ -1,0 +1,25 @@
+/*
+    Document   : dankshrek2k15.css
+    Created on : 2015-02-25 06:22 PM
+    Author     : SuperPowerDonkey
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+body {
+background-color: 33CC00}
+root {
+    display: block;
+}
+#count {
+    padding: 15px;
+    color:black;
+}
+#dankHat {
+    position: absolute
+    top: -100px;
+    left: 460px;
+    z-index:2;
+    width:270px;
+    height:175px;
+}

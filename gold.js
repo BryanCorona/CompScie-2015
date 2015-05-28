@@ -1,4 +1,4 @@
-    //the object for the player
+ //the object for the player
 var player = {
     elem: document.getElementById("player"),
     xpos: 0,
@@ -67,9 +67,5 @@ function position3(){
 
 
 }
-
-
-
-
 
 
