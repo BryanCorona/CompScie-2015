@@ -41,9 +41,11 @@ var turn = 1;
 function changeTheSpot(clickedSquare){
     if(turn%2 === 0 && clickedSquare.innerHTML.length != 1){
          clickedSquare.innerHTML = "X"
+         turn++
     }
     if(turn%2 != 0 && clickedSquare.innerHTML.length != 1){
         clickedSquare.innerHTML = "O"     
+        turn++
     }
     
 }
@@ -84,6 +86,4 @@ function checkWin(){
 }
 var turn = 1
 
-function updateTurn(){     
-    turn++
-}
+
